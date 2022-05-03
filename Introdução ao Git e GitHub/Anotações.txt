@@ -1,0 +1,8 @@
+git status - verifica se está tudo sincronizado
+
+git add. sincroniza todas as pastas
+
+git commit - m "" -> comentarios da ultima commit
+
+git push origin main envia os arquivos.
+
